@@ -1,0 +1,2 @@
+nodemon run server //TO start server
+npm run dev // to run both front and backend work concurrently
